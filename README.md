@@ -56,6 +56,7 @@ To get a token we need to request
 POST http://127.0.0.1:8000/api/login/ username="username" password="password"
 ```
 
+## Restrictions
 This CRUD API has some restrictions:
 -   The API's can be accessed by anyone as Permissions class is not added
 -   Pagination class is not used due to small amount of data in database

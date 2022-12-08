@@ -1,5 +1,5 @@
-# Django-CRUD-API
-This is a simple Rest API created with [Django REST framework](http://www.django-rest-framework.org/)
+# Django-Rest-API
+This is a simple Restful API for performing CRUD operations created with [Django REST framework](http://www.django-rest-framework.org/)
 
 ## Requirements
 - Python 3.9.13
